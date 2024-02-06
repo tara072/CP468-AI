@@ -1,3 +1,3 @@
 # CP468-AI
 
-This is the assignments and final project code for the CP468 Artificial Intelligence course in Spring 2023.
+This is our code for the assignments and final project in the CP468 Artificial Intelligence (Spring 2023).
